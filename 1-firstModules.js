@@ -1,4 +1,4 @@
-const { sayHi } = require("./modules.js");
+const { sayHi } = require("./2-modules.js");
 
 sayHi("rohan");
 sayHi("deepak");
